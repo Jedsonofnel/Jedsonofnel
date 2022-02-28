@@ -1,6 +1,7 @@
 # Hey, I'm Jed
 
 ---
+(and this is a horizontal line)
 
 ## Stuff about me (programming)
 
